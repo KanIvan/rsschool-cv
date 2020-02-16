@@ -1,0 +1,19 @@
+.style1 {
+    width: 1024px;
+    background: rgb(248, 248, 248);
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+#foto {
+    border-radius: 50%;
+    text-align: right;
+    float: right;
+    margin: 10px 5px 50px 50px;
+}
+h4 {
+    padding-top: 5px;  
+}
