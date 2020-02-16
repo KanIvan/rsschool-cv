@@ -1,4 +1,4 @@
-1. **Ivan Kanischev**
+1. Ivan Kanischev
 
 2. My contacts: kan.ivann@gmail.com, +375296236869 (WhatsApp/Telegram/Viber).
 
